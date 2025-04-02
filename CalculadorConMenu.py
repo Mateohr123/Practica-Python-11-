@@ -10,7 +10,7 @@ def dividir(a, b):
   return a / b
 
 def mostrar_menu():
-  print("Calculadora básica - Maria Casallas, Daniela Ariza, Daniela Santana")
+  print("Calculadora básica - Oscar Diaz, David Alvarez")
   print("1. Sumar")
   print("2. Restar")
   print("3. Multiplicar")
@@ -21,7 +21,7 @@ def calculadora():
       mostrar_menu()
       opcion = input("Selecciona una opción (1-5): ")
       if opcion == '5':
-          print("Saliendo de la calculadora. ¡Bye!")
+          print("Saliendo de la calculadora. ¡Chao!")
           break
       if opcion in ['1', '2', '3', '4']:
           num1 = float(input("Introduce el primer número: "))
