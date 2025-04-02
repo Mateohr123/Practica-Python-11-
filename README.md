@@ -1,2 +1,2 @@
 # Practica-Python-11-
-Mateo Hernández - Grettel Aguilar
+Juliana García - Sofia Rojas
