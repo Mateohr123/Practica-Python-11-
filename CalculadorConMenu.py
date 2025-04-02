@@ -10,7 +10,7 @@ def dividir(a, b):
   return a / b
 
 def mostrar_menu():
-  print("Calculadora básica - Juliana García y Sofia Rojas")
+  print("Calculadora básica - Maria Casallas, Daniela Ariza, Daniela Santana")
   print("1. Sumar")
   print("2. Restar")
   print("3. Multiplicar")
