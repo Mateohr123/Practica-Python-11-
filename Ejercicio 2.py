@@ -1,2 +1,2 @@
-nombre = input("¿Como te llamas? ")
-print("Cordial saludo <3", nombre)
+nombre = input("¿Como es tu nombre? ")
+print("Holaaaa", nombre)
