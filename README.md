@@ -1,2 +1,2 @@
 # Practica-Python-11-
-Juliana García - Sofia Rojas
+Maria Casallas - Daniela Santana - Daniela Ariza
