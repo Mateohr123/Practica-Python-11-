@@ -1,4 +1,4 @@
-numero = int(input("Ingrese un número de tres digitos: "))
+numero = int(input("Ingresa un número de tres digitos por favor: "))
 
 digito1 = numero % 10  
 digito2 = (numero // 10) % 10  
